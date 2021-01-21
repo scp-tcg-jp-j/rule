@@ -1,2 +1,1 @@
-# rule
-Wiki版STJJのルールを議論・策定します
+# Wiki版STJJ総合ルール
