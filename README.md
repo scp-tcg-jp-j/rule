@@ -1,4 +1,4 @@
-# Wiki版STJJ総合ルール（開発中）
+# Wiki版STJJ総合ルール（策定済み）
 こちらでは策定済みのルールを公開しています。  
 開発中のルールは[このリンク先](https://github.com/scp-tcg-jp-j/rule/tree/develop)をご参照ください。  
 
